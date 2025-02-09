@@ -2,6 +2,8 @@ import getWords from "./lib/getWords.mjs"
 getWords("fdkskfpec")
 
 
+console.log('downtime')
+
 // const s = 'You can also directly specify the project name and the template you want to use via additional command line options.'
 // const counts = new Map
 
